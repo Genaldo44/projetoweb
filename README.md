@@ -10,4 +10,10 @@ Sites desenvolvidos em **HTML5 / JS** e _CSS3_
 		+ REACT
 		+ WordPress 
 
+1. Módulo 1
+2. Módulo 2
+
+		2.1. Instalação 
+		2.2. Quickstart
+
 
