@@ -7,6 +7,12 @@
 
 Sites desenvolvidos em **HTML5 / JS** e _CSS3_
 
+  '''python
+def exemplo():
+
+
+  '''
+
 - HTML5
 - CSS3
 - JS
