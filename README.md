@@ -1,2 +1,4 @@
 # projetoweb
-Sites desenvolvidos em **HTML5** e _CSS3_
+Sites desenvolvidos em **HTML5 / JS** e _CSS3_
+
+
